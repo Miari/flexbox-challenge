@@ -60,6 +60,10 @@ nav > a {
   min-width: 200px;
 }
 
+nav > a:hover {
+  background-color: rgb(27, 25, 25);
+}
+
 /*start of main section*/
 
 main {
